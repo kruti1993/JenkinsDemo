@@ -25,6 +25,6 @@ stages {
                 echo 'Testing'
             }
         }
-       
+       }
     }
 }
